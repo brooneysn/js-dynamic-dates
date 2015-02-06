@@ -8,7 +8,10 @@ This code defines a dynamic date picker for JasperServer. Add the jar file to th
 
 ![ScreenShot](/Screen-Shot-2012-06-17-at-11.14.14-AM1.png?raw=true )
 
-![ScreenShot](/js-dynamic-dates/Screen-Shot-2012-06-17-at-11.14.14-AM1.png?raw=true )
+![ScreenShot](/js-dynamic-dates/Screen-Shot-2012-06-17-at-11.14.14-AM1.png?raw=true)
+
+![](https://bitbucket.org/brooneyx/js-dynamic-dates/Screen-Shot-2012-06-17-at-11.14.14-AM1.png?raw=true)
+
 
 First we need to create a set of parameters in the jrxml file that help us calculate and store the dates.
 
