@@ -2,7 +2,7 @@
 
 This code defines a dynamic date picker for JasperServer. Add the jar file to the lib directory in order for the server to be able to run the code.
 
-![Screen-Shot-2012-06-17-at-11.14.14-AM1.png](https://bitbucket.org/repo/qkykp/images/1530980556-Screen-Shot-2012-06-17-at-11.14.14-AM1.png)
+![Screen-Shot-2012-06-17-at-11.14.14-AM1.png]
 
 First we need to create a set of parameters in the jrxml file that help us calculate and store the dates.
 
