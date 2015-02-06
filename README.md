@@ -4,7 +4,7 @@ This code defines a dynamic date picker for JasperServer. Add the jar file to th
 
 ![Screen-Shot-2012-06-17-at-11.14.14-AM1.png]
 ![Alt text](/Screen-Shot-2012-06-17-at-11.14.14-AM1.png?raw=true "Optional Title")
-
+![Alt text](/../s-dynamic-dates/Screen-Shot-2012-06-17-at-11.14.14-AM1.png?raw=true "Optional Title")
 First we need to create a set of parameters in the jrxml file that help us calculate and store the dates.
 
 * PickDate – (String) This will be filled in with the date choice (“Yesterday”, This Week”, etc).
