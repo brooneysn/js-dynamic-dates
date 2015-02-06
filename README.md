@@ -2,7 +2,7 @@
 
 This code defines a dynamic date picker for JasperServer. Add the jar file to the lib directory in order for the server to be able to run the code.
 
-![ScreenShot](https://bitbucket.org/brooneyx/js-dynamic-dates/14683fce6db78303d8693531e6d1f1e285661678/Screen-Shot-2012-06-17-at-11.14.14-AM1.png?raw=true)
+![ScreenShot](/Screen-Shot-2012-06-17-at-11.14.14-AM1.png?raw=true)
 
 
 First we need to create a set of parameters in the jrxml file that help us calculate and store the dates.
